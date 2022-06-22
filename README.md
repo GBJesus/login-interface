@@ -2,8 +2,6 @@
   Vaccination Queue
 </h1>
 
-[We are ONLINE, try Now](https://pagelogin-interface.netlify.app/) :tada:<br> 
-
 
 <h3 align="center">
   Let's check your vaccination date.
@@ -36,7 +34,6 @@ This project is a simple login page to create a project that a user needs to log
 - [Styled Components](https://styled-components.com/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Netlify](https://www.netlify.com/)
 
 
 <br>
